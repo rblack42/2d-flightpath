@@ -14,7 +14,7 @@ rubber-powered models in gymnasiums, and started back into this hobby by
 building a simple model I purchased from Volare Models. Here is what I put
 together:
 
-..  image::  _images/hedy-lamar-p-18.jpg
+..  image::  https://github.com/rblack42/2d-flightpath/blob/master/docs/_images/hedy-lamar-p-18.jpg
     :align: center
 
 The marking on the model enable it to fly in a "mass launch event" where each
